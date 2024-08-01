@@ -4,7 +4,7 @@ Frontend web developer passionate about crafting engaging and user-friendly digi
 
 In addition to coding, I’m a passionate photographer & videographer, occasionally creating content for YouTube to showcase these talents. If you’re hiring, let’s chat!”
 
-📷 You can follow me on Instagram @mr.alladen
+📷 You can follow me on Instagram [@mr.alladen]https://www.instagram.com/mr.alladen/
 
 <!--
 **abdulmananch/abdulmananch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
