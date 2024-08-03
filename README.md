@@ -5,7 +5,7 @@ Experienced in HTML, CSS, JavaScript, and frameworks like React and Vue.js.
 Committed to bringing my creative and technical skills to a busy team in a startup or tech-forward company. 
 
 In addition to coding, I’m a passionate photographer & videographer, occasionally creating content for YouTube to showcase these talents. 
-If you’re hiring, let’s chat!”
+If you’re hiring, let’s chat!” 💬
 
 📷 You can follow me on Instagram [@mr.alladen](https://www.instagram.com/mr.alladen/)
 
